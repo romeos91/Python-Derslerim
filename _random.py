@@ -10,4 +10,4 @@ print(result)
 print(result2)
 names=["Ali","Veli","Ayşe","Fatma"]
 result3=random.choice(names) # listeden rastgele bir eleman seçer
-print(result3)
+print(result3) 
